@@ -1,3 +1,5 @@
+# Please do not disclose personal sensitive information
+
 name: 符号
   company: BCG
   title: Senior Data Scientist
@@ -19,3 +21,8 @@ name: 静怡/Jingyi
   title: Finance Manager
   city: Seattle
 
+name: 林子亮
+  company: Instagram (Facebook)
+  title: Data Scientist
+  focus: recommendation system integrity
+  city: New York
